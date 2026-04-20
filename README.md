@@ -1,6 +1,9 @@
 # 🎯 Number Guessing Game
 
 A simple Python game where the player has to guess a randomly generated number within limited attempts.
+## 📸 Example Output
+
+![Game Screenshot](no.guessing.game.jpg)
 
 # 🚀 Features
 
